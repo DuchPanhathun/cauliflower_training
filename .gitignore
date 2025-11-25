@@ -2,3 +2,5 @@
 env/
 dataset/
 checkpoints/
+cali/
+_pycache__/
